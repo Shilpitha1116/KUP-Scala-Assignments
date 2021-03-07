@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to /home/knoldus/ScalaProject/cliParser/target/scala-2.12/api...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.4.4:compile for Scala 2.12.12[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalling Scaladoc with arguments:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/knoldus/ScalaProject/cliParser/target/scala-2.12/api[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/knoldus/.sbt/boot/scala-2.12.12/lib/scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/knoldus/ScalaProject/flags/target/scala-2.12/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/knoldus/ScalaProject/cliParser/src/main/scala/MainClass.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CLIParser/CLIParser.iml" filepath="$PROJECT_DIR$/CLIParser/CLIParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlagParser/FlagParser.iml" filepath="$PROJECT_DIR$/FlagParser/FlagParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScalaProject.iml" filepath="$PROJECT_DIR$/.idea/modules/ScalaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScalaProject-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ScalaProject-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cliParser.iml" filepath="$PROJECT_DIR$/.idea/modules/cliParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flags.iml" filepath="$PROJECT_DIR$/.idea/modules/flags.iml" />
+    </modules>
+  </component>
+</project>

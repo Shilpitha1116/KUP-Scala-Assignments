@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(cliParser -t, Some(ae7c7072-9eee-4c75-b3ac-cf85a18b66dc), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mExpected '/' (if selecting a project)[0m
+[0m[[0m[31merror[0m] [0m[0mcliParser -t[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m

@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(cliParser/univeral:packageBin, Some(83a13b48-43d4-43e2-8e91-6ca5ade865a2), Some(CommandSource(console0)))[0m
+[0m[[0m[31merror[0m] [0m[0mNo such setting/task[0m
+[0m[[0m[31merror[0m] [0m[0mcliParser/univeral:packageBin[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
