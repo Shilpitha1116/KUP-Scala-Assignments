@@ -1,0 +1,8 @@
+target/
+.bsp/
+.idea/
+cliParser/target
+flags/target
+project/target
+project/project/target
+
