@@ -1,2 +1,2 @@
 # KUP-Scala-Assignments
-This repository contains the Scala programming assignments 
+This repository contains all the Scala Programming Assigments.
